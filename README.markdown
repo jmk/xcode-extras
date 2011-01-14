@@ -1,3 +1,3 @@
-To use the file templates, copy or symlink them here:
+To use the file and project templates, symlink the directories into:
 
-    ~/Library/Application\ Support/Developer/Shared/Xcode/File\ Templates
+    ~/Library/Application\ Support/Developer/Shared/Xcode/
