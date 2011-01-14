@@ -1,0 +1,8 @@
+{
+    FilesToMacroExpand = (
+        "rsrc/Info.plist",
+        "rsrc/English.lproj/InfoPlist.strings",
+        "src/Prefix.pch",
+    );
+    Description = "This project builds a framework that links against the Cocoa framework.";
+}
