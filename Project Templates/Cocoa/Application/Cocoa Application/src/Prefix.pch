@@ -1,0 +1,6 @@
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+
+    // For human-readable operators, a la C++.
+    #import <iso646.h>
+#endif

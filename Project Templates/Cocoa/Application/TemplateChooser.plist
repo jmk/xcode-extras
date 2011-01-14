@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Checkboxes</key>
+	<array>
+		<dict>
+			<key>Key</key>
+			<string>Doc</string>
+			<key>Title</key>
+			<string>Document-based application</string>
+		</dict>
+	</array>
+	<key>TemplateSelection</key>
+	<dict>
+		<key></key>
+		<string>Cocoa Application</string>
+		<key>Doc</key>
+		<string>Cocoa Document-based Application</string>
+	</dict>
+</dict>
+</plist>
