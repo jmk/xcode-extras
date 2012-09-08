@@ -1,3 +1,7 @@
+__Note: These templates are not compatible with Xcode 4.x.__
+
+<hr>
+
 ### About The Templates ###
 
 These templates were derived from the default ones supplied with Xcode, with a few changes to suit my personal taste:
